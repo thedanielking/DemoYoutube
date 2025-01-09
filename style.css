@@ -346,7 +346,7 @@ main{
 @media (max-width: 800px){
 
     .side-nav{
-        display: none;
+/*         display: none; */
     }
 
     .container{
